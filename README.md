@@ -1,4 +1,5 @@
-# awesome-ML-DL-for-genomics
+# Awesome-ML-DL-for-Genomics
+
 An Awesome Collection of Resources for Machine Learning &amp; Deep Learning in Genomics
 
 ## Machine Learning
