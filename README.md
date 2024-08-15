@@ -24,6 +24,14 @@ Hands-On Machine Learning with R: https://bradleyboehmke.github.io/HOML/
 6. Chang, C., & Lin, C. (2011). LIBSVM: A library for support vector machines. ACM Trans. Intell. Syst. Technol., 2, 27:1-27:27. https://doi.org/10.1145/1961189.1961199
 7. 
 
+### Naïve Bayes
+1. Sandberg, R., Winberg, G., Brändén, C.I., Kaske, A., Ernberg, I., & Cöster, J. (2001). Capturing whole-genome characteristics in short sequences using a naïve Bayesian classifier. Genome research, 11 8, 1404-9 . https://doi.org/10.1101/gr.186401
+       - Highly cited
+2. Sambo, F., Trifoglio, E., Camillo, B.D., Toffolo, G., & Cobelli, C. (2012). Bag of Naïve Bayes: biomarker selection and classification from genome-wide SNP data. BMC Bioinformatics, 13, S2 - S2. https://doi.org/10.1186/1471-2105-13-S14-S2
+       - Cannot find download URL
+#### Video
+1. (mandarin) https://www.youtube.com/watch?v=jQFSJYiGJIA
+2. 
 ## Deep Learning
 
 ## Review
