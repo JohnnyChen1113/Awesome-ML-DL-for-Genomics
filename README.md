@@ -4,6 +4,8 @@ An Awesome Collection of Resources for Machine Learning &amp; Deep Learning in G
 
 ## Machine Learning
 
+## Books
+Hands-On Machine Learning with R: https://bradleyboehmke.github.io/HOML/
 ## Review
 
 ## Tools, tutorial & resources
