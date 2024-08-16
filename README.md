@@ -12,6 +12,7 @@ Hands-On Machine Learning with R: https://bradleyboehmke.github.io/HOML/
 1. https://github.com/GenoML/genoml2: GenoML (genoml2) is an open source Python package. It is an automated machine learning (autoML) platform for genomics data
 2. https://github.com/dhbradshaw/ml-for-genomics: Lists open source machine learning projects solving genomic or molecular biology problems.
 3. https://github.com/mbbu/MachineLearning4Genomics: Machine Learning for Genomics Course.
+4. https://www.coursera.org/articles/r-packages: R Packages for AI and Machine Learning
 ### Support Vector Machine (SVM)
 1. Huang, S., Cai, N., Pacheco, P. P., Narrandes, S., Wang, Y., & Xu, W. (2018). Applications of Support Vector Machine (SVM) Learning in Cancer Genomics. Cancer genomics & proteomics, 15(1), 41–51. https://doi.org/10.21873/cgp.20063
 2. Schneider, H.W., Raiol, T., Brigido, M.M., Walter, M.E., & Stadler, P.F. (2017). A Support Vector Machine based method to distinguish long non-coding RNAs from protein coding transcripts. BMC Genomics, 18. https://doi.org/10.1186/s12864-017-4178-4
